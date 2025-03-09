@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intelligent Robot Contest
+---
+
 ## 知能ロボコン機体の開発
 * 機体名 : one-cannon
 * １つのアームで、ボールの吸引回収と射出を行う戦車型の自律ロボット
